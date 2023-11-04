@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ApellidosColeccionDeJuegos
+//  ColeccionDeJuegos
 //
-//  Created by Gabriel Marquez on 24/10/23.
+//  Created by dennys3mf on 24/09/23.
 //
 
 import UIKit
@@ -41,7 +41,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "ApellidosColeccionDeJuegos")
+        let container = NSPersistentContainer(name: "ColeccionDeJuegos")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.

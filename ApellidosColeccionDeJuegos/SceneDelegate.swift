@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  ApellidosColeccionDeJuegos
+//  ColeccionDeJuegos
 //
-//  Created by Gabriel Marquez on 24/10/23.
+//  Created by dennys3mf on 24/09/23.
 //
 
 import UIKit
